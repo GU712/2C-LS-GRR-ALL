@@ -1,8 +1,8 @@
 <item>				
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>		
 <title>[COLOR white][B]12 Heróis (2018)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=0Q9W9vgLa58$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]12 Herois[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=0Q9W9vgLa58$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]12 Herois[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6984e1b126c42b960448829f8b7e2dc6df0e5ac6$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]12 Herois - HD DUB [/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]12 Herois - FHD LEG [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OTGR/LS-12.Herois.2018.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]12 Herois - HD DUB[/B][/COLOR]</link>		
@@ -32,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>		
 <title>[COLOR white][B]A Caçada ao Outubro Vermelho (1990)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=3C2tE7vjdHk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Casada ao Outubro Vermelho[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=3C2tE7vjdHk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Casada ao Outubro Vermelho[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f189b37715df45044cd4c1ac1c29925fa16ecc25$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Casada ao Outubro Vermelho - HD LEG[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49162d426d402ec8ec2ff682e6a85012c7df9234$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Casada ao Outubro Vermelho - FHD DUAL[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Casada.ao.Outubro.Vermelho.1989.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Casada ao Outubro Vermelho - HD DUB[/B][/COLOR]</link>		
@@ -45,7 +45,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>		
 <title>[COLOR white][B]A Irmandade da Guerra (2004)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=co1ORjz9nE8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Irmandade da Guerra[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=co1ORjz9nE8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Irmandade da Guerra[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07a9e44e2f4b4862931caf032c8c67551975d5b1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Irmandade da Guerra - HD LEG [/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3026d4530721d0c748c2cca4d96137550380e954$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]A Irmandade da Guerra - FHD DUAL [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OTGR/LS-A.irmandade%20da%20guerra.2004.720.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Irmandade da Guerra - HD DUB[/B][/COLOR]</link>		
@@ -89,7 +89,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>		
 <title>[COLOR white][B]Filhas do Sol (2018)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=H1DRzFwDR6c$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Filhas do Sol[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=H1DRzFwDR6c$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Filhas do Sol[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3645332384660f8c5ebfcb1aafd59d6310fa381$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Filhas do Sol - HD DUB [/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:778dc294361882d45418903cad5f4c2226a31e38$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Filhas do Sol - FHD LEG [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OTGR/LS-Filhas.do.Sol.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Filhas do Sol - FHD DUB[/B][/COLOR]</link>		
@@ -111,7 +111,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Heróis de Guerra (2019)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=_zvpI4AvMao$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Herois de Guerra[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=_zvpI4AvMao$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Herois de Guerra[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a98c19218e83a999ee938f0c72c3a7092c46fae$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Herois de Guerra - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OTGR/LS-Herois.de.Guerra.2019.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Herois de Guerra - FHD DUAL+LEG[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AttAWFTg1K4Qxjo12nMhu8NQIFR.jpg</thumbnail>
@@ -152,7 +152,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>		
 <title>[COLOR white][B]Lágrimas do Sol (2003)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=e0cgUCHqirs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Lagrimas do Sol[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=e0cgUCHqirs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Lagrimas do Sol[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3611dabe28302dd57f0be258268a9081c7588158$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Lagrimas do Sol - HD DUAL [/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcfca0f4a46fd111df9375874d559b5f3acec6d6$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Lagrimas do Sol - FHD DUAL [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OTGR/LS-Lagrimas.do.Sol.2003.FHD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Lagrimas do Sol - FHD DUB[/B][/COLOR]</link>		
@@ -224,23 +224,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>				
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>				
 <title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>				
 <title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
 
 
