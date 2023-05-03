@@ -1,8 +1,8 @@
 <item>				
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]1968: Tunnel Rats (2008)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=RmEuGECjMls$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1968: Tunnel Rats[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=RmEuGECjMls$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1968: Tunnel Rats[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4f0d70449057ffdd2c2ac3db456c40731fbc186$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]1968: Tunnel Rats - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a80de43e6dccf925e790611da922d5c03206f7d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]1968: Tunnel Rats - FHD DUB[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-1968-Tunnel.Rats.2008.FHD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]1968: Tunnel Rats - FHD DUB[/B][/COLOR]</link>				
@@ -31,7 +31,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Apocalypse Now (1979)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=snDR7XsSkB4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Apocalypse Now[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=snDR7XsSkB4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Apocalypse Now[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c50d403fcd632d7d018e9ed4894a2b6f0a5b6a29$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Apocalypse Now - DUB [/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Apocalypse.Now.1979.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Apocalypse Now - HD DUB[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Apocalypse.Now.1979.HD.LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Apocalypse Now - HD LEG FIX[/B][/COLOR]</link>				
@@ -56,7 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Destacamento Blood (2020)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=D5RDTPfsLAI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=D5RDTPfsLAI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef4d5cca182c1efa8617ad19448b649136b54e6b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - DUB [/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]NOMEDOFILME - LEG [/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Destacamento.Blood.2020.FHD.DUAL-LF.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>				
@@ -69,7 +69,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]De Volta para o Inferno (1983)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=hCMmsFDXnTw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]De Volta para o Inferno[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=hCMmsFDXnTw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]De Volta para o Inferno[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-De.Volta.Para.o.Inferno.1983.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]De Volta para o Inferno - FHD DUB[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/optCmkDp0AAUAiaIVpVphFJ2C2m.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/hClBOOILY5LlRDF8In9a04sEMbe.jpg</fanart>				
@@ -88,7 +88,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Fomos Heróis (2002)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=OUlnYz-4StE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Fomos Herois[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=OUlnYz-4StE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Fomos Herois[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95dcb8759c3ff0234a81e595eb4e5347062c4961$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fomos Herois - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4446e7f88ad52ed159b3f98ede857726b99310c1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fomos Herois - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Fomos.Herois.2002.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Fomos Herois - FHD DUB[/B][/COLOR]</link>				
@@ -146,7 +146,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Nascido para Matar (1987)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=ElJKZqnJsU4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nascido para Matar[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=ElJKZqnJsU4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Nascido para Matar[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:i2rejghsz55vjzl46coybrr6itedpwkc$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Nascido para Matar - DUB [/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Nascido para Matar - LEG [/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Nascido.Para.Matar.1987.FHD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Nascido para Matar - FHD DUB[/B][/COLOR]</link>				
@@ -167,7 +167,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Pecados de Guerra (1989)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=GTSXyBhcf9E$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Pecados de Guerra[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=GTSXyBhcf9E$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Pecados de Guerra[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec97491db5e2e6a1dac1251f36ed96066b73c1bc$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pecados de Guerra - HD DUB[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99a158f341f45fd68669f34e9fd5680b9f698cb3$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pecados de Guerra - FHD LEG[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Pecados.de.Guerra.1989.HD.DUAL.LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pecados de Guerra - FHD DUB[/B][/COLOR]</link>				
@@ -180,7 +180,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Platoon (1986)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=KztP7SKe0uk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Platoon[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=KztP7SKe0uk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Platoon[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8345d38f60c77da0f9bab3559fcb5de02597ddfc$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Platoon - HD LEG [/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aa5059185ac5b7b7f4046604a7d123fff972c32$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Platoon - FHD DUAL [/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Platoon.1986.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Platoon - FHD DUB[/B][/COLOR]</link>				
@@ -193,7 +193,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Platoon Leader - A Guerra Cruel (1988)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=Br-wtCM9_7o$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Platoon Leader - A Guerra Cruel[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=Br-wtCM9_7o$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Platoon Leader - A Guerra Cruel[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Platoon.Leader-A.Guerra.Cruel.1988.HD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Platoon Leader - A Guerra Cruel - FHD DUAL[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/cf2UMnubxH4w3FLUlxY2wjabz6x.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/xVbcsfRdBqck0QZTV9PaPvos5Jv.jpg</fanart>				
@@ -220,7 +220,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Tigerland - A Caminho da Guerra (2000)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=uyO_oojfKXY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=uyO_oojfKXY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ed6cc9238a9f7134b1693a49f9b064c05b629e9$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra - HD LEG [/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70813393594b1c362a3f466ad7ca077a744aea2a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra - FHD DUAL [/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/%20LS-Tigerland-A.Caminho.da.Guerra.2000.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Tigerland - A Caminho da Guerra - HD LEG[/B][/COLOR]</link>				
@@ -241,7 +241,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Tigerland - A Caminho da Guerra (2000)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=uyO_oojfKXY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=uyO_oojfKXY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ed6cc9238a9f7134b1693a49f9b064c05b629e9$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra - HD LEG [/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70813393594b1c362a3f466ad7ca077a744aea2a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Tigerland - A Caminho da Guerra - FHD DUAL [/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/%20LS-Tigerland-A.Caminho.da.Guerra.2000.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Tigerland - A Caminho da Guerra - HD LEG[/B][/COLOR]</link>				
@@ -272,24 +272,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>				
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>				
 <title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>				
 <title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 
