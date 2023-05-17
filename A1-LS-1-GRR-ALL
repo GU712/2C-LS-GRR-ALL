@@ -12,18 +12,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NUMERAL			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>					
-<title>[COLOR white][B]1917 (2020)[/B][/COLOR]</title>					
-<link>plugin://plugin.video.tubemusic/?video_id=dglqGGyWbVo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917 [/B][/COLOR]</link>					
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cd248234f2a4ef95dd2245ac22d8b70921e78a6$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]1917 - HD DUAL[/B][/COLOR]</link>					
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f6a4abd9c8f25fc5b7b97b319c7569e50d2cc78$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]1917 - FHD DUAL[/B][/COLOR]</link>					
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-1917.2019.FHD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]1917 - FHD DUB[/B][/COLOR]</link>					
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]1917 (2020) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-1917.2020.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>					
 <fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>					
-<info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>					
+<info>Os cabos Schofield e Blake são jovens soldados.Eles são encarregados de entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>					
 <genre>GUERRA</genre>  					
-</item>					
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX					
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "A"				
@@ -332,6 +329,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-
-
