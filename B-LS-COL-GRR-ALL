@@ -26,8 +26,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Braddock (03 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/B2-COL-Braddock-ALL</externallink>
-<thumbnail>https://i.ibb.co/mc0yBPt/COL-BRADOCK-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/n350Z1j/COL-BRADOCK-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/3NG65Hx/COL-BRADOCK-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/0FwwYks/COL-BRADOCK-FAN-ALL.png</fanart>
 <info>Assista aqui a coleção Braddock. 
 [COLOR orange][B]GUERRA[/B][/COLOR]
 [COLOR orange][B]03 FILMES[/B][/COLOR]
@@ -50,7 +50,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Fugindo do Inferno (2 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/B5-COL-Great.Escape-ALL</externallink>
+<thumbnail>https://i.ibb.co/X4mW2mg/COL-G-ESCAPE-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/nwPFmxh/COL-G-ESCAPE-FAN-ALL.png</fanart>
+<info>Assista aqui os filmes da coleção Fugindo do Inferno. 
+[COLOR orange][B]GUERRA[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1963 e 1988)[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "G"				
@@ -84,8 +98,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Midway (2 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/B4-COL-Midway-ALL</externallink>
-<thumbnail>https://i.ibb.co/1d7GZ6s/COL-MIDWAY-ICON-ALLL.png</thumbnail>
-<fanart>https://i.ibb.co/Br8Y0p1/COL-MIDWAY-FAN-ALLL.png</fanart>
+<thumbnail>https://i.ibb.co/M7Jzvpk/COL-MIDWAY-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/FqZQvwY/COL-MIDWAY-FAN-ALL.png</fanart>
 <info>Assista aqui os filmes da coleção Midway. 
 [COLOR orange][B]GUERRA[/B][/COLOR]
 [COLOR orange][B]2 FILMES[/B][/COLOR]
@@ -102,8 +116,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Nada de Novo no Front (03 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/B3-COL-Nada.Novo.Front-ALL</externallink>
-<thumbnail>https://i.ibb.co/N2pd9RQ/COL-N-NOVO-FRONT-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/k8dJkjk/COL-N-NOVO-FRONT-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/n1kTJQD/COL-N-NOVO-FRONT-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/R0vnZgK/COL-N-NOVO-FRONT-FAN-ALL.png</fanart>
 <info>Assista a coleção Nada de Novo no Front. 
 [COLOR orange][B]GUERRA[/B][/COLOR]
 [COLOR orange][B]03 FILMES[/B][/COLOR]
@@ -137,8 +151,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Sahara (02 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/B1-COL-Sahara-ALL</externallink>
-<thumbnail>https://i.ibb.co/BKTCFFg/COL-SAHARA-ICON-ALLL.png</thumbnail>
-<fanart>https://i.ibb.co/pfZt9K6/COL-SAHARA-FAN-ALLL.png</fanart>
+<thumbnail>https://i.ibb.co/LRnN8VZ/COL-SAHARA-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/T2jY9p2/COL-SAHARA-FAN-ALL.png</fanart>
 <info>Assista aqui a coleção Sahara. 
 [COLOR orange][B]GUERRA[/B][/COLOR]
 [COLOR orange][B]02 FILMES[/B][/COLOR]
