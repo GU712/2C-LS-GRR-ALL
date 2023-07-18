@@ -96,21 +96,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "B"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>						
-<title>[COLOR white][B]Bastardos Inglórios (2009)[/B][/COLOR]</title>						
-<link>plugin://plugin.video.tubemusic/?video_id=w1O5LThfp7w$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Bastardos Inglorios[/B][/COLOR]</link>						
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8c83ec0c77b4815b2cd40277b5340daaedee56a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Bastardos Inglorios - DUB [/B][/COLOR]</link>						
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Bastardos Inglorios - LEG [/B][/COLOR]</link>						
-						
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>						
-						
-						
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q33bLgO3SP69mUdfWktG6LJGU27.jpg</thumbnail>						
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q33bLgO3SP69mUdfWktG6LJGU27.jpg</fanart>						
-<info>Durante a Segunda Guerra Mundial, na França, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido.</info>						
-<genre>GUERRA</genre>  						
-</item>						
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bastardos Inglórios (2009) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Bastardos.Inglorios.2009.FHD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bPnPsyo09tLRnTOb7AlsBsgnbhP.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Bastardos Inglórios
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 2009
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX					
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "C"				
