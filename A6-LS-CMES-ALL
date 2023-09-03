@@ -356,18 +356,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>						
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
 						
-<item>						
-<title>[COLOR white][B]Os Doze Condenados (1967)[/B][/COLOR]</title>						
-<link>plugin://plugin.video.tubemusic/?video_id=3LbtQP5aO1s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Doze Condenados[/B][/COLOR]</link>						
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56f784911d00952a4ca4dae86513ebd96d940f7b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Os Doze Condenados - DUB [/B][/COLOR]</link>						
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Os Doze Condenados - LEG [/B][/COLOR]</link>						
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Os.Doze.Condenados.1967.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Doze Condenados - HD DUB[/B][/COLOR]</link>						
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Os.Doze.Condenados.1967.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Doze Condenados - FHD DUAL+LEG[/B][/COLOR]</link>						
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Doze Condenados (1967) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Dirty.Dozen.1967.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aLogpA6ZWJD1FTkyktSY2cLj6yR.jpg</thumbnail>						
-<fanart>https://www.themoviedb.org/t/p/original/eg4M9n90NdWMT4pu5H1V771O7sC.jpg</fanart>						
-<info>Um major rebelde e uma fama de resolver as coisas recebe a ordem de entrevistar prisioneiros militares, condenados à morte ou à prazo longo, para uma perigosa missão em troca de perdão. O objetivo é saltar de paraquedas atrás das linhas inimigas e causar estragos para os generais alemães que estarão em uma casa de repouso, na véspera do Dia D.</info>						
-<genre>GUERRA</genre>						
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
+<fanart>https://www.themoviedb.org/t/p/original/eg4M9n90NdWMT4pu5H1V771O7sC.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Doze Condenados
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1967
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um major rebelde e condenados à morte , são enviados para uma perigosa missão em troca de perdão. Matar generais alemães que estarão em uma casa de repouso, na véspera do Dia D.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Os Heróis de Telemark (1965)[/B][/COLOR]</title>
