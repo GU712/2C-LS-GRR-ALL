@@ -5,30 +5,38 @@
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
-<item>				
-<title>[COLOR white][B]Midway (1976)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=2CGbpbclYyQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Midway[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Midway/LS-Midway.1976.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Midway - FHD DUAL+LEG[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Midway (1976) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Midway/LS-1-Midway.1976.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vCzGV28YFmWubUn1jh8ytagYocR.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/r4GYxa3yn8RafYvzdkZrfYdHtcH.jpg</fanart>				
-<info>Em 1942, a Batalha de Midway se torna o ponto de virada da Segunda Guerra no Pacífico.</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/r4GYxa3yn8RafYvzdkZrfYdHtcH.jpg</fanart>	
+<info>[COLOR white]Assista aqui o filme: 
+[B]Midway
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1976
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em 1942, a Batalha de Midway se torna o ponto de virada da Segunda Guerra no Pacífico.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
-<title>[COLOR white][B]Midway: Batalha em Alto Mar (2019)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=RK0MFKFnrQY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Midway: Batalha em Alto Mar[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Midway/LS-%20Midway.Batalha.em.Alto.Mar.2020.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Midway: Batalha em Alto Mar - FHD DUAL+LEG[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Midway: Batalha em Alto Mar (2019) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Midway/LS-2-Midway.Batalha.em.Alto.Mar.2020.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/4rEiz5E3LjxtFa7GYUXJDdiuOBE.jpg</fanart>				
-<info>O confronto entre as forças americanas e a Marinha Imperial Japonesa, que marcou um ponto de virada fundamental na Guerra do Pacífico.</info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<fanart>https://www.themoviedb.org/t/p/original/4rEiz5E3LjxtFa7GYUXJDdiuOBE.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Midway: Batalha em Alto Mar
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 2019
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR black].[/COLOR]</title>				
@@ -37,7 +45,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
 <title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
 <link>ignoreme</link>
@@ -52,6 +59,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -59,4 +67,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
