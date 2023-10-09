@@ -1,70 +1,99 @@
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
-<title>[COLOR white][B]Nada de Novo no Front (1930)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=grapXipP3fM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Nada de Novo no Front[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E83F700D82316D1BEE8DE6EDEF5DD6D8F5A4C3AE$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nada de Novo no Front - HD LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Sem.Novidade.no.Front.1930.HD.LEG-FIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Nada de Novo no Front - HD LEG[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Nada de Novo no Front (1930) - HD LEG FIX[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Nada.Novo.Front/LS-1-Sem.Novidade.no.Front.1930.HD.LEG-FIX.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/njcGOI9hFyp5e0ltLMZIloXyioO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg</fanart>
-<info>Sete estudantes patriotas alemães apresentam-se como voluntários para o serviço militar em plena Primeira Guerra Mundial. </info>
-<genre>GUERRA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Nada de Novo no Front
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG FIX
+[COLOR orange]ANO - 1930
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Sete estudantes patriotas alemães apresentam-se como voluntários para o serviço militar em plena Primeira Guerra Mundial.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
-<title>[COLOR white][B]Nada de Novo no Front (1979) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=puXIQqGBuPI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Nada de Novo no Front[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Sem.Novidade.no.Front.1979.SD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Nada de Novo no Front - SD DUB[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Nada.Novo.Front/LS-Sem.Novidade.no.Front.1979.HD+LEGFIX.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Nada de Novo no Front - HD LEG-FIX[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Nada de Novo no Front (1979) - HD LEG FIX[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Nada.Novo.Front/LS-2-Sem.Novidade.no.Front.1979.HD+LEGFIX.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/v9kZBLc7rF5fFtoeIkTslO3tETE.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lPFq4Mv18bNGHYLjYEvYOBB3ilc.jpg</fanart>
-<info>No início da Primeira Guerra Mundial, Paul Baumer é um jovem patriota alemão, ávido por lutar.</info>
-<genre>GUERRA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Nada de Novo no Front
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG FIX
+[COLOR orange]ANO - 1979
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No início da Primeira Guerra Mundial, Paul Baumer é um jovem patriota alemão, ávido por lutar.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Nada de Novo no Front (2022)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=hf8EYbVxtCY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Nada de Novo no Front[/B][/COLOR]</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Nada de Novo no Front (1979) - SD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Nada.Novo.Front/LS-2-Sem.Novidade.no.Front.1979.SD.DUB.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v9kZBLc7rF5fFtoeIkTslO3tETE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lPFq4Mv18bNGHYLjYEvYOBB3ilc.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Nada de Novo no Front
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO - 1979
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No início da Primeira Guerra Mundial, Paul Baumer é um jovem patriota alemão, ávido por lutar.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nada de Novo no Front - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9DC038DB6A31193958CE4163BDC6BCA2CE127CF1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Nada de Novo no Front - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Nada.Novo.Front/LS-Nada.de.Novo.no.Front.2022.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Nada de Novo no Front - FHD DUAL+LEG[/B][/COLOR]</link>
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Nada de Novo no Front (2022) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-CL/Nada.Novo.Front/LS-3-Nada.de.Novo.no.Front.2022.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg</fanart>
-<info>Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.</info>
-<genre>GUERRA</genre>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Nada de Novo no Front
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 2022
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.
+[/COLOR]</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-		
-<item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
