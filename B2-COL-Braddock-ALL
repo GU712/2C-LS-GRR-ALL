@@ -15,9 +15,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/9RLRkSeBll1xBhIaedjPUxyBMeM.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Braddock: O Super Comando
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1984
-[COLOR orange]GUERRA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1984
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um homem que se negou a esquecer seus companheiros de combate no Vietnã regressou para libertá-los e descobrir a verdade!
 [/COLOR]</info>
 </item>
@@ -30,9 +30,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/dc4WaGwzYPL0t88TZFM3sqEYh0S.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Braddock 2: O Início da Missão
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1985
-[COLOR orange]GUERRA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No Vietnã, o Coronel Braddock,e seus soldados são prisioneiros, sob intensa tortura.Braddock, cria um plano para escapar com seus homens.
 [/COLOR]</info>
 </item>
@@ -45,14 +45,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/dLR19YNqv8eZYQTRVDYoM8gunvq.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Braddock 3: O Resgate
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1988
-[COLOR orange]GUERRA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1988
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A primeira vez foi pela pátria. A segunda vez foi por sua vida. Agora, para resgatar seu filho.
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -81,4 +82,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
