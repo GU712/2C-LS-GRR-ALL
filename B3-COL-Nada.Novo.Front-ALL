@@ -15,9 +15,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Nada de Novo no Front
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG FIX
-[COLOR orange]ANO - 1930
-[COLOR orange]GUERRA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1930
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Sete estudantes patriotas alemães apresentam-se como voluntários para o serviço militar em plena Primeira Guerra Mundial.
 [/COLOR]</info>
 </item>
@@ -30,9 +30,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/lPFq4Mv18bNGHYLjYEvYOBB3ilc.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Nada de Novo no Front
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG FIX
-[COLOR orange]ANO - 1979
-[COLOR orange]GUERRA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1979
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No início da Primeira Guerra Mundial, Paul Baumer é um jovem patriota alemão, ávido por lutar.
 [/COLOR]</info>
 </item>
@@ -45,9 +45,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/lPFq4Mv18bNGHYLjYEvYOBB3ilc.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Nada de Novo no Front
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUB
-[COLOR orange]ANO - 1979
-[COLOR orange]GUERRA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1979
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No início da Primeira Guerra Mundial, Paul Baumer é um jovem patriota alemão, ávido por lutar.
 [/COLOR]</info>
 </item>
@@ -60,14 +60,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Nada de Novo no Front
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 2022
-[COLOR orange]GUERRA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -89,7 +90,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
