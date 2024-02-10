@@ -1,70 +1,67 @@
-<item>		
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
-<link>NOLINK</link>		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]BIOGRAFIA[COLOR yellow] -> [COLOR white]F.E.B. - O Brasil na Segunda Guerra Mundial[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=DMMFUDD8vEo</link>		
-<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail>		
-<fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart>		
-<info>Assista ao DOCUMENTÁRIO</info>		
-<genre>GUERRA</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Heróis - O Brasil na Segunda Guerra Mundial[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=GOuSTc4LZlg</link>		
-<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail>		
-<fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>GUERRA</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Heróis - O Brasil na Segunda Guerra Mundial (2021) - T01 - HD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 05 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Herois[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]HHerois[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Herois[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Herois[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Herois[/B][/COLOR]</link>		
-		
-<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail>		
-<fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart>		
-<info>Heróis é a primeira série brasileira sobre a participação do Brasil na Segunda Guerra Mundial</info>		
-<genre>GUERRA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2021) 05 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail>		
+<fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Parte 1[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E01.mp4</link>
+<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail><fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Parte 2[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E02.mp4</link>
+<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail><fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Parte 3[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E03.mp4</link>
+<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail><fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Parte 4[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E04.mp4</link>
+<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail><fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Parte 5[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/Herois-Nacional/LS-T01E05.mp4</link>
+<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail><fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
