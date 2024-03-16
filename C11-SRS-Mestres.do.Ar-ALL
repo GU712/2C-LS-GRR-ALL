@@ -1,3 +1,5 @@
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
@@ -44,6 +46,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Parte 8[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/1:/SRS/3-GRR/Mestres.do.Ar/LS-T01E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/jM8VipSula8bZq9B3IrHAzWDhpg.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/menEyCOdkjXqwpJy3cwOH8kfZrj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Parte 9[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/3-GRR/Mestres.do.Ar/LS-T01E09.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/jM8VipSula8bZq9B3IrHAzWDhpg.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/menEyCOdkjXqwpJy3cwOH8kfZrj.jpg</fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
