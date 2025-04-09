@@ -1,11 +1,3 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
-<info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>	
-</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>	
@@ -24,7 +16,6 @@ primeira batalha contra o Japão, em Guadalcanal, até seu retorno após o grand
 [/B][COLOR black].[/COLOR]
 [COLOR white]Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
-</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
@@ -38,8 +29,8 @@ E DIVIRTA-SE[/B]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Guadalcanal/Leckie[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E01.mkv</link>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Guadalcanal/Leckie[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E01.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -47,8 +38,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Basilone[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E02.mkv</link>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Basilone[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E02.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -56,8 +47,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Melbourne[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E031.mkv</link>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Melbourne[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E031.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -65,8 +56,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Gloucester/Pavuvu/Banika[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E04.mkv</link>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Gloucester/Pavuvu/Banika[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E04.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -74,8 +65,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Peleliu Landing[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E05.mkv</link>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Peleliu Landing[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E05.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -84,7 +75,7 @@ A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Peleliu Airfield[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E06.mkv</link>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E06.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -93,7 +84,7 @@ A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Peleliu Hills[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E07.mkv</link>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E07.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -102,7 +93,7 @@ A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Iwo Jima[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E08.mkv</link>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E08.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -111,7 +102,7 @@ A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Okinawa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E09.mkv</link>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E09.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -120,7 +111,7 @@ A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Casa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Pacific.2010/LS-T01E10.mkv</link>
+<link>https://ls.lsnew.workers.dev/0:/SRS/3-GRR/2010.The.Pacific/LS-T01E10.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
